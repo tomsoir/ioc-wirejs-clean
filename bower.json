@@ -1,0 +1,9 @@
+{
+    "name"          : "enfence.com",
+    "version"       : "1.0.0",
+    "dependencies"  : {
+        "requirejs"         : null,
+        "wire"              : null,
+        "requirejs-domready": null
+    }
+}
